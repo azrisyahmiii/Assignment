@@ -6,7 +6,7 @@ Please introduce the game here.
 
 ![Gameboard](https://drive.google.com/uc?id=1Ws2_t5cC1dXereO4eVjXbqT7C_P91U9G "Gameboard")
 
-YouTube link to [Video Demo](https://youtu.be/87hC63ysAZI).
+YouTube link to [Video Demo 1](https://youtu.be/87hC63ysAZI) & [Video Demo Part 2](https://youtu.be/W1YtlJZJo84).
 
 ## Compilation Instructions
 
@@ -26,6 +26,7 @@ Step 3: To run the program
 ## User Manual
 
 Please provide the user manual on how to use your program.
+- [User Manual](User Manual TCP1101.pdf)
 
 ## Progress Log
 
